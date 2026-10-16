@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# VS Code / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data / outputs
+runs/
+outputs/
+*.mp4
+*.avi
